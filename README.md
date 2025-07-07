@@ -43,7 +43,7 @@ BookTime is a mobile application built with SwiftUI and Firebase that helps user
 ## 📸 Screenshots
 
 ### Signing up
-![Sign Up](SignUp.png)
+![Sign Up](Assets.acassets/SignUp.png)
 
 ### Librqry
 ![Library](screenshots/Library.png)
