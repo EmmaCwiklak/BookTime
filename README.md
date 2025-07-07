@@ -40,8 +40,16 @@ BookTime is a mobile application built with SwiftUI and Firebase that helps user
 - **MVVM Architecture** – Clean separation of logic and UI
 
 ## Screenshots
->
+## 📸 Screenshots
 
+### Signing up
+![Sign Up](screenshots/SignUp.png)
+
+### Librqry
+![Library](screenshots/Library.png)
+
+### Comments
+![All Comments](screenshots/All_Comments.png)
 ## Security & Data Handling
 
 - All book images are loaded securely using `https` links
